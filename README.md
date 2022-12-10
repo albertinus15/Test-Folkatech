@@ -1,6 +1,7 @@
 # Test-Folkatech
 
 Proses menjalankan terraform .yml untuk mencreate Centos 7 dan sudah menggunakan security grup sebagai berikut :
+_Pastikan semua file ymlnya berada pada 1 folder_
 
 1. hal yang pertama kita lakukan adalah :
 ```
